@@ -1,2 +1,12 @@
-Use this file to submit the extra credit problem. Be sure to describe your
-process for solving the problem, and not just to give the solution. 
+ANS: 'I WISH IT NEED NOT HAVE HAPPENED IN MY TIME,' SAID
+FRODO.
+'SO DO I,' SAID GANDALF, 'AND SO DO ALL WHO LIVE TO
+ SEE SUCH TIMES. BUT THAT IS NOT FOR THEM TO DECIDE.
+ ALL WE HAVE TO DECIDE IS WHAT TO DO WITH THE TIME
+ THAT IS GIVEN, US.
+
+I first noticed that 'L' was a relatively common character that appeared to
+stand alone. "I" was an english word that fulfilled these requirements.
+Going from 'L' to 'I' was to go from #12 to #9 in the alphabet. So I inputed 
+-3 as the key in caesar.m from last class. The general text was
+revealed and I was able to fill in the rest (punctuation, etc.).
